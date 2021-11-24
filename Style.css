@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+    text-align: center;
+    
+}
+h2{
+    color: rgb(18, 194, 42);
+    text-align: center;
+}
+h1{
+    color: brown;
+    text-align: center;
+    
+}
+
+img.sinistra{
+    width: 300px;
+    border-radius: 50px;
+    float left: auto;
+    margin-right:10px;
+}
+
+em{
+    color: aliceblue;
+}
